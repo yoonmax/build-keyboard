@@ -1,0 +1,60 @@
+{
+  "measuredAt": "2026-11-05",
+  "machine": "Apple M4 Pro",
+  "browser": "Chromium through Playwright, Metal backend",
+  "viewport": "1440 × 900",
+  "runs": [
+    {
+      "deviceScaleFactor": 1,
+      "loadToInteractiveMs": 389,
+      "orbit": {
+        "framesDrawn": 182,
+        "drawnPerSecond": 59.4,
+        "p95FrameGapMs": 16.7
+      },
+      "typing": {
+        "framesDrawn": 182,
+        "drawnPerSecond": 60.1,
+        "p95FrameGapMs": 16.7
+      },
+      "exploded": {
+        "framesDrawn": 146,
+        "drawnPerSecond": 60.2,
+        "p95FrameGapMs": 16.8
+      },
+      "idleFramesIn3s": 0,
+      "fullSampleMs": 4.9,
+      "applyThemeMedianMs": 0.1,
+      "scene": {
+        "drawCalls": 80,
+        "triangles": 550630
+      }
+    },
+    {
+      "deviceScaleFactor": 2,
+      "loadToInteractiveMs": 354,
+      "orbit": {
+        "framesDrawn": 181,
+        "drawnPerSecond": 59.1,
+        "p95FrameGapMs": 16.7
+      },
+      "typing": {
+        "framesDrawn": 186,
+        "drawnPerSecond": 60.3,
+        "p95FrameGapMs": 16.8
+      },
+      "exploded": {
+        "framesDrawn": 146,
+        "drawnPerSecond": 60.2,
+        "p95FrameGapMs": 16.8
+      },
+      "idleFramesIn3s": 0,
+      "fullSampleMs": 5.98,
+      "applyThemeMedianMs": 0.1,
+      "scene": {
+        "drawCalls": 80,
+        "triangles": 550630
+      }
+    }
+  ]
+}
