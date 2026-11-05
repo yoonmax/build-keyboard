@@ -2,6 +2,8 @@
 
 Make it yours.
 
+**[Open the live studio](https://build-keyboard.vercel.app)**
+
 BUILD is a 3D studio for designing a custom mechanical keyboard in the browser. Pick a layout, a case and every part inside it. The keyboard is generated from that configuration in real time, a rules engine checks that the parts work together, and you can take it apart, type on it, hear it and export a render.
 
 It has no model files, no backend and no account. Every part is computed in millimetres from data.
